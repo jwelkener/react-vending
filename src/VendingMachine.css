@@ -1,0 +1,20 @@
+/* src/VendingMachine.css */
+.VendingMachine {
+	text-align: center;
+  }
+  
+  .vending-machine-image {
+	width: 300px;
+	height: auto;
+	margin: 20px 0;
+  }
+  
+  ul {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  li {
+	margin: 10px 0;
+  }
+  
